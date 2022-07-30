@@ -1,0 +1,24 @@
+.btn_contact {
+/*  padding: 15px 10px;
+  border-radius: 10px;
+  font-size: 36px;
+  background-color: #e6d412;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+  color: #6d1eff;*/
+}
+
+span.outline {
+  position: relative;
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: #6d1eff;
+  }
+}
