@@ -1,6 +1,5 @@
 <template>
-  <div class="home">
-    <!--    <HelloWorld />-->
+  <!--<div class="home">
     <div class="hero__banner">
       <div class="txt">
         <h1>Webdev Services</h1>
@@ -18,12 +17,18 @@
         />
       </div>
     </div>
+  </div>-->
+  <div class="home">
+
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
 // import HelloWorld from "@/components/HelloWorld.vue";
+
+const paper = require('paper');
+console.log(paper)
 
 export default {
   name: "Home",
