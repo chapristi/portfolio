@@ -7,33 +7,33 @@
     </p>
     <article>
       <CustomCardService
-        title="App Development"
-        paragraph="Sample text. Click to select the text box. Click again or double click to start editing the text. Excepteur sint occaecat cupidatat non proident."
+        title="Development : "
+        paragraph="Une architecture de projet minutieuse qui vous permet un maintient dans le temps peu coûteux mais aussi très simple. Notre  stratégie abordée a déjà porté ses fruits chez de nombreux clients"
         linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002955373436739664/app-development.png"
       />
       <CustomCardService
-        title="Referencing"
-        paragraph="Sample text. Click to select the text box. Click again or double click to start editing the text. Excepteur sint occaecat cupidatat non proident."
+        title="Référencement :"
+        paragraph="Nous vous aidons à référencer votre site internet grâce à un  code optimal  basé sur les règles de SEO et des recommandations données par Google."
         linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
       />
       <CustomCardService
-        title="Referencing"
-        paragraph="Sample text. Click to select the text box. Click again or double click to start editing the text. Excepteur sint occaecat cupidatat non proident."
+        title="From scratch :"
+        paragraph="Nous réalisons les sites internet à la main sur une base vierge afin d’obtenir un résultat le plus proche possible de la maquette fourni"
         linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
       />
       <CustomCardService
-        title="Referencing"
-        paragraph="Sample text. Click to select the text box. Click again or double click to start editing the text. Excepteur sint occaecat cupidatat non proident."
+        title="Optimisation : "
+        paragraph="Un code optimisé car nous utilisons les technologies les plus performantes du marché. Cela permettra un rendu le plus rapide possible"
         linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
       />
       <CustomCardService
-        title="Referencing"
-        paragraph="Sample text. Click to select the text box. Click again or double click to start editing the text. Excepteur sint occaecat cupidatat non proident."
+        title="support :"
+        paragraph="24h/24 7j/7* Nous encourageons nos clients à  venir nous contacter s'ils rencontrent n’importe quel souci. Notre service client est compétent et sera capable de répondre à n'importe quelle de vos questions."
         linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
       />
       <CustomCardService
-        title="Referencing"
-        paragraph="Sample text. Click to select the text box. Click again or double click to start editing the text. Excepteur sint occaecat cupidatat non proident."
+        title="La sécurité notre priorité: "
+        paragraph="Grace au technologie utiliser ainsi qu'au code robuste, nous garantissons une protection contre des potentiels attaque * => voir pour plus d'information (et on dit que l'ont couvre uniquement les failles XSS - Injection SQL)"
         linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
       />
     </article>
