@@ -178,6 +178,9 @@ body {
         margin-right: auto;
         margin-left: auto;
         width: 100%;
+        img {
+          width: 90%;
+        }
       }
     }
   }
