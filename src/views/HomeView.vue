@@ -19,22 +19,22 @@
       <CustomCardService
         title="From scratch :"
         paragraph="Nous réalisons les sites internet à la main sur une base vierge afin d’obtenir un résultat le plus proche possible de la maquette fourni"
-        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
+        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1003966598408843314/resultats.png"
       />
       <CustomCardService
         title="Optimisation : "
         paragraph="Un code optimisé car nous utilisons les technologies les plus performantes du marché. Cela permettra un rendu le plus rapide possible"
-        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
+        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1003965994387120198/efficacite.png"
       />
       <CustomCardService
         title="support :"
         paragraph="24h/24 7j/7* Nous encourageons nos clients à  venir nous contacter s'ils rencontrent n’importe quel souci. Notre service client est compétent et sera capable de répondre à n'importe quelle de vos questions."
-        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
+        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1003966349682429952/customer-service.png"
       />
       <CustomCardService
         title="La sécurité notre priorité: "
         paragraph="Grace au technologie utiliser ainsi qu'au code robuste, nous garantissons une protection contre des potentiels attaque * => voir pour plus d'information (et on dit que l'ont couvre uniquement les failles XSS - Injection SQL)"
-        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1002957836906663946/world-wide-web_1.png"
+        linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1003965776493039687/cyber.png"
       />
     </article>
   </section>
