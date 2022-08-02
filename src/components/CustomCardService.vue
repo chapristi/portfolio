@@ -20,12 +20,13 @@ body {
 
 .card-content {
   background-color: white;
+  border: 0.1px solid;
   height: 400px;
   width: 350px;
   border-radius: 10px;
   font-family: "Epilogue", sans-serif;
   max-width: 350px;
-
+  box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
   p {
     font-size: 19px;
     padding: 0 6% 6%;
