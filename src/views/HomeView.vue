@@ -33,7 +33,7 @@
       />
       <CustomCardService
         title="La sécurité notre priorité: "
-        paragraph="Grace au technologie utiliser ainsi qu'au code robuste, nous garantissons une protection contre des potentiels attaque * => voir pour plus d'information (et on dit que l'ont couvre uniquement les failles XSS - Injection SQL)"
+        paragraph="Grace au technologie utiliser ainsi qu'au code robuste, nous garantissons une protection contre des potentiels attaques"
         linkImage="https://cdn.discordapp.com/attachments/769652351333171250/1003965776493039687/cyber.png"
       />
     </article>
@@ -177,6 +177,7 @@ body {
       .test {
         margin-right: auto;
         margin-left: auto;
+        width: 100%;
       }
     }
   }
@@ -190,23 +191,27 @@ body {
       display: flex;
       flex-direction: column;
       align-items: center;
-      height: 700px;
-
+      height: 800px;
       .questions-article {
-        height: 300px;
-
+        height: 500px;
         width: 100%;
-
+        .response {
+          margin-left: 12%;
+          width: 80%;
+        }
         .question {
-          height: 80%;
           margin-right: auto;
           margin-left: auto;
+          &:first-child {
+            margin-top: 40px;
+          }
         }
       }
       .illustration-article {
+        height: 600px;
         img {
           margin-left: 16%;
-          height: 60%;
+          height: 40%;
         }
         .textIllustration {
           padding-right: 15%;

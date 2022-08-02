@@ -102,4 +102,10 @@ export default {
     margin: auto;
   }
 }
+@media (max-width: 767px) {
+  .question {
+    height: 250px;
+    width: 95%;
+  }
+}
 </style>
